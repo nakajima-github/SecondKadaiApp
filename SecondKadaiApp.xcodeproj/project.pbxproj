@@ -16,6 +16,7 @@
 		A64CBAED281FC0D800A5A8CD /* SecondKadaiAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64CBAEC281FC0D800A5A8CD /* SecondKadaiAppTests.swift */; };
 		A64CBAF7281FC0D800A5A8CD /* SecondKadaiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64CBAF6281FC0D800A5A8CD /* SecondKadaiAppUITests.swift */; };
 		A64CBAF9281FC0D800A5A8CD /* SecondKadaiAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64CBAF8281FC0D800A5A8CD /* SecondKadaiAppUITestsLaunchTests.swift */; };
+		A64CBB06281FC26F00A5A8CD /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64CBB05281FC26F00A5A8CD /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A64CBAF2281FC0D800A5A8CD /* SecondKadaiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A64CBAF6281FC0D800A5A8CD /* SecondKadaiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITests.swift; sourceTree = "<group>"; };
 		A64CBAF8281FC0D800A5A8CD /* SecondKadaiAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A64CBB05281FC26F00A5A8CD /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				A64CBAD5281FC0D600A5A8CD /* AppDelegate.swift */,
 				A64CBAD7281FC0D600A5A8CD /* SceneDelegate.swift */,
 				A64CBAD9281FC0D600A5A8CD /* ViewController.swift */,
+				A64CBB05281FC26F00A5A8CD /* ResultViewController.swift */,
 				A64CBADB281FC0D600A5A8CD /* Main.storyboard */,
 				A64CBADE281FC0D800A5A8CD /* Assets.xcassets */,
 				A64CBAE0281FC0D800A5A8CD /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				A64CBADA281FC0D600A5A8CD /* ViewController.swift in Sources */,
 				A64CBAD6281FC0D600A5A8CD /* AppDelegate.swift in Sources */,
 				A64CBAD8281FC0D600A5A8CD /* SceneDelegate.swift in Sources */,
+				A64CBB06281FC26F00A5A8CD /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
